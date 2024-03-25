@@ -46,7 +46,7 @@ def Enable_MC_Traffic_linux():
     enable_linux()
     
 def Disable_MC_Traffic_linux():
-    enable_linux()
+    disable_linux()
 
 def Test_MC_Traffic():
     test_mc_traffic()
